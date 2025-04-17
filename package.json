@@ -1,0 +1,20 @@
+{
+  "name": "7evn.ai",
+  "version": "1.0.0",
+  "description": "Discord bot 7evn.ai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "7evn.ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
